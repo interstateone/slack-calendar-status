@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>ca.brandonevans.slack-calendar-status</string>
+	<key>CFBundleExecutable</key>
+	<string>slack-calendar-status</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Set your Slack status</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Set your Slack status</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Set your Slack status</string>
+</dict>
+</plist>
